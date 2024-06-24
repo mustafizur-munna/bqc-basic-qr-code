@@ -1,0 +1,1 @@
+# bqc-basic-qr-code
